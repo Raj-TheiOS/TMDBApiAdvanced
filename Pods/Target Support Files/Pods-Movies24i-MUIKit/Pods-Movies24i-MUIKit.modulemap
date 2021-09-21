@@ -1,0 +1,6 @@
+framework module Pods_Movies24i_MUIKit {
+  umbrella header "Pods-Movies24i-MUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
